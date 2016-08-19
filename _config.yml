@@ -1,0 +1,14 @@
+layout_spectrum: 0.9110527120064944
+typography_spectrum: 0.20031119277700782
+color:
+  brandStrength: 0.6979401092976332
+  lightness: 0.8594230739399791
+  saturation: 0.5486095391679555
+  rhythmicContrast: 0.4807929552625865
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: Indiefreaks Studio
