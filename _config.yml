@@ -1,3 +1,4 @@
+layout_spectrum: 0.9110527120064944
 typography_spectrum: 0.20031119277700782
 color:
   brandStrength: 0.6979401092976332
@@ -10,12 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.9110527120064944
-author:
-  name: Philippe Da Silva
-  email: philippe.dasilva@indiefreaks.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc1d3ded-95d9-4688-ac1f-35af6803d18a.png
 name: Indiefreaks Studio
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54ea1bcb-87bd-48af-9449-01f285795044.png
